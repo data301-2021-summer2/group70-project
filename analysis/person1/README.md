@@ -1,0 +1,2 @@
+**Notes on the import function**
+I wasn't able to import my functions from scripts into a new file for some reason. I don't know enough of the python architecture to answer this question and I did not have enough time this week to trouble shoot the issue and at one point I was about to dispose of my computer in an innapropriate manner because the issue was infuriating. I will hopefully find clarity on this in the coming week.
