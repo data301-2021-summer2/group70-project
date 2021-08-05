@@ -1,4 +1,4 @@
-# Group SOLO - Law and Ch-order
+# Group 70 - Law and Ch-order
 
 - Your title can change over time.
 
