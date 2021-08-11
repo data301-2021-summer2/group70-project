@@ -1,2 +1,5 @@
+# README
+This folder contains all the files for tasks 1-4 in milestone 2 and is thus my submission for milestone 3
+
 **Notes on the import function**
-I wasn't able to import my functions from scripts into a new file for some reason. I don't know enough of the python architecture to answer this question and I did not have enough time this week to trouble shoot the issue and at one point I was about to dispose of my computer in an innapropriate manner because the issue was infuriating. I will hopefully find clarity on this in the coming week.
+I wasn't able to import my functions from scripts into a new file because of an import error that I could not resolve so please look at the file "final" for my submission
